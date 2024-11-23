@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 echo "Installing proprietary media formats..."
 sudo apt install ubuntu-restricted-extras
